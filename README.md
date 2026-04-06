@@ -45,7 +45,6 @@ UART (Bluetooth communication & debugging)
 I2C (LCD communication)
 PWM (servo control)
 Timers (input capture & signal measurement)
-
 Real-time sensor data processing
 Implementation of access control logic
 Practical use of communication protocols (UART, I2C)
